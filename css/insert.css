@@ -1,0 +1,30 @@
+form{
+    margin-left: 500px;
+  }
+  label{
+    font-weight: bold;
+    font-size: 18px;
+  }
+  input[type=text]{
+    width: 350px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  input[type=submit]{
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 120px;
+    padding: 5px;
+  }
+  table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 30px;
+  }
+  td,th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 3px;
+  }
